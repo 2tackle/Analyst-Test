@@ -6,7 +6,7 @@ Responses to a Business Analyst [test](http://competitiveanalytics.com/employmen
 
 - Objective: The data contained in the field: “DownloadData” needs to be parsed effectively for analysis. Please reshape the data from the Input (results from a download tool) and parse into a table for analytics.
 
-- Tools to Investigate: Text to Columns, Sample, Dynamic Rename
+- Tools to Investigate: *Text to Columns, Sample, Dynamic Rename*
 
 
 <strong>Exercise 2: Spatial Trade Area Creation</strong>
@@ -17,7 +17,7 @@ The Customers visit the stores in the Store File.
 - Objective: Create a Convex Hull Trade Area that encapsulates 80% of the customer base who spend more than $10 and have had more than 1 visit for each store. The 80% should define the closest customers to the store location.
 Question: For the 3 stores, what is the Area Sq Miles for each Trade Area?
 
-- Tools to Investigate: Join, Distance, Poly Build, Spatial Info
+- Tools to Investigate: *Join, Distance, Poly Build, Spatial Info*
 
 
 <strong>Exercise 3: Preparing Sales Data for Visualization</strong>
@@ -26,7 +26,7 @@ A company would like to visualize their sales data in tableau. The source data c
 
 - Objective: This data needs to be transposed into a format that is easily visualized in Tableau.
 
-- Tools to Investigate: Filter, Multi-Row Formula, Transpose
+- Tools to Investigate: *Filter, Multi-Row Formula, Transpose*
 
 
 <strong>Exercise 4: Time Series Forecasting</strong>
@@ -36,4 +36,4 @@ The source data contains weekly data for 2012 and 2013 details how many units ha
 
 - Objective: Forecast how many units will be moved for the next 6 weeks.
 
-- Tools to Investigate: Formula, ARIMA, Summarize
+- Tools to Investigate: *Formula, ARIMA, Summarize*
